@@ -2,6 +2,7 @@
 The summer training course on the Bayesian Optimization for Automated Experiment
 
 1.	The tentative outline of the course is as following:
+   
 a.	Gaussian processes and Bayesian Optimization, July 6
 
 b.	Bayesian Inference and structured Gaussian Processes, July 13
@@ -16,7 +17,7 @@ f.	DKL, explainable automated experiments, and human in the loop AE, August 10
 
 g.	Multifidelity structured GP, August 17
 
-3.	Why do I organize this tutorial:
+2.	Why do I organize this tutorial:
 
 a.	In my experience, the best books on Bayesian optimization (e.g. Roman Garnett https://bayesoptbook.com/) tend to be focused on the fairly abstract concepts and written from purely data science perspective. They are super-useful, but tend to require considerable efforts to connect to real-world applications and especially code implementations.
 
